@@ -1,6 +1,6 @@
 Place holder for the source code of "Mixture Density Generative Adversarial Networks".
 
-**Mixture Density Generative Adversarial Networks**
+**Mixture Density Generative Adversarial Networks** [arXiv](https://arxiv.org/abs/1811.00152)
 <br>
 [Hamid Eghbal-zadeh](https://www.jku.at/en/institute-of-computational-perception/about-us/people/hamid-eghbal-zadeh/), [Werner Zellinger](https://www.flll.jku.at/staff/wernerz), [Gerhard Widmer](https://www.jku.at/en/institute-of-computational-perception/about-us/people/gerhard-widmer/)
 
