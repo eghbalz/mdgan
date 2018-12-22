@@ -1,4 +1,3 @@
-# mdgan
 Place holder for the source code of "Mixture Density Generative Adversarial Networks".
 
 **Mixture Density Generative Adversarial Networks**
