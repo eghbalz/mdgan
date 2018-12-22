@@ -12,7 +12,7 @@ Accepted at [Third Workshop on Bayesian Deep Learning, NeurIPS2018](http://bayes
 @INPROCEEDINGS{eghbal2018mixture,
   title={Mixture Density Generative Adversarial Networks},
   author={Eghbal-zadeh, Hamid and Zellinger, Werner and Widmer, Gerhard},
-  booktitle = {Third workshop of Bayesian Deep Learning, NeurIPS2018},
+  booktitle = {Third workshop on Bayesian Deep Learning, NeurIPS2018},
   year = {2018},
   location = {Montreal, Canada}
 }
