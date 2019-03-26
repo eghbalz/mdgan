@@ -4,8 +4,7 @@ Place holder for the source code of "Mixture Density Generative Adversarial Netw
 <br>
 [Hamid Eghbal-zadeh](https://www.jku.at/en/institute-of-computational-perception/about-us/people/hamid-eghbal-zadeh/), [Werner Zellinger](https://www.flll.jku.at/staff/wernerz), [Gerhard Widmer](https://www.jku.at/en/institute-of-computational-perception/about-us/people/gerhard-widmer/)
 
-Accepted at [Third Workshop on Bayesian Deep Learning, NeurIPS2018](http://bayesiandeeplearning.org/)
-Accepted at [CVPR2019](http://cvpr2019.thecvf.com/)
+Accepted at [IEEE Conference on Computer Vision and Pattern Recognition (CVPR2019)](http://cvpr2019.thecvf.com/)
 
 ## Citing Mixture Density Generative Adversarial Networks
 
