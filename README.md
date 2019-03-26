@@ -9,7 +9,7 @@ Accepted at [IEEE Conference on Computer Vision and Pattern Recognition (CVPR201
 ## Citing Mixture Density Generative Adversarial Networks
 
 ```
-@INPROCEEDINGS{eghbal2018mixture,
+@INPROCEEDINGS{eghbal2019mixture,
   title={Mixture Density Generative Adversarial Networks},
   author={Eghbal-zadeh, Hamid and Zellinger, Werner and Widmer, Gerhard},
   booktitle = {IEEE Conference on Computer Vision and Pattern Recognition, CVPR},
